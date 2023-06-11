@@ -23,8 +23,16 @@
 
     <repositories>
         <repository>
+            <id>minecraft</id>
+            <url>https://lss233.littleservice.cn/repositories/minecraft</url>
+        </repository>
+        <repository>
             <id>codemc-snapshots</id>
             <url>https://repo.codemc.io/repository/maven-snapshots/</url>
+        </repository>
+        <repository>
+            <id>sonatype</id>
+            <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
 
         <repository>
